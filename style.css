@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+::selection {
+    background-color: #cc8c2d;
+}
+
 html {
     scroll-behavior: smooth;
 }
